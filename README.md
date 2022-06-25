@@ -92,3 +92,9 @@ To stop docker conatiner
 docker stop <container_id>
 ```
 python setup.py install
+
+'''
+install ipykernel
+'''
+
+pip install ipykernel
