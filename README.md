@@ -55,6 +55,8 @@ To send version/changes to github
 git push origin main
 ```
 
+ ![img](https://github.com/Trilokpandey/machine_learning_proj/blob/main/study/project_Flow.png?raw=true)
+
 To check remote url 
 ```
 git remote -v
